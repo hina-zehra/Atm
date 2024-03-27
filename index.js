@@ -50,9 +50,9 @@ if (enterPin.pin === yourPin) {
             yourBalance -= fastCash.cash;
             console.log(`your remaining balance is ${yourBalance}`);
         }
-        if (desOperation.operation === "check balance") {
-            console.log(`your current account balance is ${yourBalance}`);
-        }
+    }
+    if (desOperation.operation === "check balance") {
+        console.log(`your current account balance is ${yourBalance}`);
     }
 }
 else {
