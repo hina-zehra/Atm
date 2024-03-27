@@ -1,6 +1,6 @@
 {
-  "name": "shzr04_atm",
-  "version": "1.0.1",
+  "name": "shzr04_atmpro",
+  "version": "1.0.0",
   "description": " atm with inquirer",
   "main": "index.js",
   "type": "module",
